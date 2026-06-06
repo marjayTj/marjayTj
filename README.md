@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Marjay Bumalod 👋
 
-<!--
-**marjayTj/marjayTj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building practical web applications, payroll systems, and business management tools.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Laravel
+- Vue.js
+- MySQL
+- Tailwind CSS
+- Git & GitHub
+
+## 🔨 Current Projects
+
+- Payroll Management System
+- Portfolio Website
+- POS and Business Applications
+
+## 🌐 Portfolio
+
+Visit my website: https://marjaycodes.online
+
+## 📌 About Me
+
+I enjoy building systems that solve real business problems, especially for payroll, attendance, reporting, and company operations.
