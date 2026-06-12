@@ -14,6 +14,7 @@ I'm a software developer focused on building practical web applications, payroll
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ## 🔨 Current Projects
 
@@ -29,9 +30,9 @@ Visit my website: https://marjaycodes.online
 
 ## 📌 About Me
 
-I am a software developer focused on building practical web-based systems that solve real business problems. My main stack includes Laravel, Vue.js, React, TypeScript, MySQL, Tailwind CSS, and API development using Postman.
+I am a software developer focused on building practical web-based systems and mobile application that solve real business problems.
 
-I enjoy working on business applications such as payroll systems, attendance management, POS systems, reporting modules, and portfolio websites. I am also exploring AI-assisted and specs-driven development to improve how software features are planned, built, tested, and maintained.
+I enjoy working on business applications such as payroll systems, attendance management, POS systems, and portfolio websites. I am also exploring AI-assisted and specs-driven development to improve how software features are planned, built, tested, and maintained.
 
 Currently, I am improving my skills in full-stack development, system architecture, clean code, GitHub workflows, and reusable component-based frontend design.
 
